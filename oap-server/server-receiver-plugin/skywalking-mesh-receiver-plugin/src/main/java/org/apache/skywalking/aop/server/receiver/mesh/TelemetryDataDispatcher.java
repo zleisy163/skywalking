@@ -260,7 +260,7 @@ public class TelemetryDataDispatcher {
                 return 49;
             case TCP:
                 // TCP in component-libraries.yml
-                return 107;
+                return 109;
             case UNRECOGNIZED:
             default:
                 // RPC in component-libraries.yml
